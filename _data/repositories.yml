@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MCLusardi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - parasollab/open-ppl
+  - MUsurf/Jelly_ROS_22-23
+  - MCLusardi/BIPSpHProject

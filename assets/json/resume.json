@@ -1,61 +1,94 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Maria Clare Lusardi",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "marial5@illinois.edu",
+    "url": "https://mclusardi.github.io",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Urbana-Champaign",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "maria-clare-lusardi",
+        "url": "https://www.linkedin.com/in/maria-clare-lusardi/"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "location": "Urbana, Illinois",
+      "url": "https://cs.illinois.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023",
+      "courses": ["Advanced Computational Topics in Robotics", "CS 473: Algorithms"]
+    },
+    {
+        "institution": "University of Missouri - Columbia",
+        "location": "Columbia, Missouri",
+        "url": "https://missouri.edu/",
+        "area": "Computer Science",
+        "studyType": "Bachelor of Science",
+        "startDate": "2019-08",
+        "endDate": "2023-05"
+    },
+    {
+        "institution": "University College Dublin",
+        "location": "Dublin, Ireland",
+        "url": "https://www.ucd.ie/",
+        "area": "Computer Science",
+        "studyType": "Study Abroad",
+        "startDate": "2022-01",
+        "endDate": "2022-05"
+    }
+  ],
+  "work": [
+    {
+      "name": "CrowdStrike",
+      "position": "Software Engineering Intern",
+      "url": "https://www.crowdstrike.com/en-us/",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": "Researched and developed additional detection logic to increase visibility into Windows Defender tampering."
+    },
+    {
+        "name": "University of Missouri Department of Computer Science",
+        "position": "Peer Learning Assistant",
+        "url": "https://engineering.missouri.edu/degree/bachelor-of-science-in-computer-science/",
+        "startDate": "2021-08",
+        "endDate": "2021-12",
+        "summary": "Assisted with grading, held office hours and co-led review sessions for CS 1050: Algorithm Design and Programming I."
+      },
+      {
+        "name": "Caterpillar",
+        "position": "Engineering Intern",
+        "url": "https://www.caterpillar.com/",
+        "startDate": "2021-05",
+        "endDate": "2021-08",
+        "summary": "Created a MATLAB simulation to model IMU sensor error based on technical specifications."
+      }
+  ],
+  "projects": [
+    {
+        "name": "Bio-Informatics in Plant Science",
+        "summary": "Developed a software setup to automate data collection for a plant science research project.",
+        "highlights": ["Won an Outstanding Award for Abstract Writing at the Undergraduate Research Forum"],
+        "startDate": "2020-08",
+        "endDate": "2021-05",
+        "url": "https://undergradresearch.missouri.edu/bioinformatics-in-plant-sciences-bips/"
+    },
+    {
+      "name": "Cybersecurity Research Experience for Undergraduates",
+      "summary": "I worked with Prof. Jeremy Straub to develop a simulator for predicting the spread of cyberattacks in organizations affected by a pandemic.",
+      "highlights": ["Presented work at the 2020 IEEE Applied Imagery Pattern Recognition Workshop.", "Published first paper"],
+      "startDate": "2020-06",
+      "endDate": "2020-08",
+      "url": "https://www.ndsu.edu/cybersecurity/reu/"
     }
   ],
   "awards": [
@@ -149,18 +182,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Physics",
@@ -175,26 +196,16 @@
       ]
     }
   ],
-  "references": [
+  "volunteer": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ]
 }
