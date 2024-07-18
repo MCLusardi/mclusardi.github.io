@@ -46,3 +46,43 @@
   poster={bips_poster.pdf},
   website={https://dl.mospace.umsystem.edu/mu/islandora/object/mu%3A428111}
 }
+
+@MISC{spite24,
+    bibtex_show={true},
+    author={Ashur, Stav and Lusardi, Maria and Markowicz, Marta and Motes, James and Morales, Marco and Har-Peled, Sariel and Amato, Nancy M.},
+    title={SPITE: Simple Polyhedral Intersection Techniques for modified Environments},
+    year={2024},
+    eprint={2407.00259},
+    archivePrefix={arXiv},
+    primaryClass={cs.RO},
+    url={https://arxiv.org/abs/2407.00259},
+    preview={spite_roadmapfig.png},
+    abstract={Motion planning in modified environments is a challenging task, as it compounds the innate difficulty of the motion planning problem with a changing 
+    environment. This renders some algorithmic methods such as probabilistic roadmaps less viable, as nodes and edges may become invalid as a result of these changes. 
+    In this paper, we present a method of transforming any configuration space graph, such as a roadmap, to a dynamic data structure capable of updating the validity of 
+    its nodes and edges in response to discrete changes in obstacle positions. We use methods from computational geometry to compute 3D swept volume approximations of 
+    configuration space points and curves to achieve 10-40 percent faster updates and up to 60 percent faster motion planning queries than previous algorithms while requiring
+     a significantly shorter pre-processing phase, requiring minutes instead of hours needed by the competing method to achieve somewhat similar update times.},
+    pdf={spite_paper.pdf},
+    arxiv={2407.00259},
+    video={/assets/video/SPITE ICRA@40 Video_854x480.mp4}
+}
+
+@misc{spanners24,
+      title={Dependable Spanners via Unreliable Edges}, 
+      author={Har-Peled, Sariel and Lusardi, Maria C.},
+      year={2024},
+      eprint={2407.01466},
+      archivePrefix={arXiv},
+      primaryClass={cs.CG},
+      url={https://arxiv.org/abs/2407.01466}, 
+      abstract={Let P be a set of n points in ℝd, and let ε,ψ∈(0,1) be parameters. Here, we consider the task of constructing a (1+ε)-spanner for P, where every edge might 
+      fail (independently) with probability 1−ψ. For example, for ψ=0.1, about 90% of the edges of the graph fail. Nevertheless, we show how to construct a spanner that 
+      survives such a catastrophe with near linear number of edges. The measure of reliability of the graph constructed is how many pairs of vertices lose (1+ε)-connectivity.
+       Surprisingly, despite the spanner constructed being of near linear size, the number of failed pairs is close to the number of failed pairs if the underlying graph was
+        a clique. Specifically, we show how to construct such an exact dependable spanner in one dimension of size O(nψlogn), which is optimal. Next, we build an 
+        (1+ε)-spanners for a set P⊆ℝd of n points, of size O(Cnlogn), where C≈1/(εdψ4/3). Surprisingly, these new spanners also have the property that almost all pairs of 
+        vertices have a ≤4-hop paths between them realizing this short path.},
+      pdf={reliable_graph_project.pdf},
+      arxiv={2407.01466}
+}
