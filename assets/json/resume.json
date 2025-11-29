@@ -27,42 +27,41 @@
       "startDate": "2023"
     },
     {
-        "institution": "University of Missouri - Columbia",
-        "url": "https://missouri.edu/",
-        "area": "Computer Science",
-        "studyType": "Bachelor of Science",
-        "startDate": "2019",
-        "endDate": "2023"
+      "institution": "University of Missouri - Columbia",
+      "url": "https://missouri.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019",
+      "endDate": "2023"
     }
-    
   ],
   "projects": [
     {
-        "name": "Air Force Research Laboratories Autonomous Vehicles Lab",
-        "summary": "Investigated impatct of knowledge of intent on the performance of hierarchical reinforcement learning in simulated Capture-the-Flag",
-        "startDate": "2025, 05",
-        "endDate": "08"
+      "name": "Air Force Research Laboratories Autonomous Vehicles Lab",
+      "summary": "Investigated impatct of knowledge of intent on the performance of hierarchical reinforcement learning in simulated Capture-the-Flag",
+      "startDate": "2025, 05",
+      "endDate": "08"
     },
     {
-        "name": "Wayfinding Assistant: WayBot",
-        "summary": "Researching haptic interfaces for a wayfinding robotic assistant for people with visual impairments.",
-        "startDate": "2024",
-        "url": "https://thehcalab.web.illinois.edu/research-projects/"
+      "name": "Wayfinding Assistant: WayBot",
+      "summary": "Researching haptic interfaces for a wayfinding robotic assistant for people with visual impairments.",
+      "startDate": "2024",
+      "url": "https://thehcalab.web.illinois.edu/research-projects/"
     },
     {
-        "name": "SPITE Dynamic Roadmaps",
-        "summary": "Developed and evaluated a method for quickly updating roadmaps for robot path planning and implemented on a UR5e manipulator arm",
-        "highlights": ["Extended Abstract accepted to ICRA@40", "Accepted to WAFR 2024"],
-        "startDate": "2023",
-        "endDate": "2024"
+      "name": "SPITE Dynamic Roadmaps",
+      "summary": "Developed and evaluated a method for quickly updating roadmaps for robot path planning and implemented on a UR5e manipulator arm",
+      "highlights": ["Extended Abstract accepted to ICRA@40", "Accepted to WAFR 2024"],
+      "startDate": "2023",
+      "endDate": "2024"
     },
     {
-        "name": "Bio-Informatics in Plant Science",
-        "summary": "Developed a software system to automate data collection for a plant science research project.",
-        "highlights": ["Won an Outstanding Award for Abstract Writing at the Spring 21' Undergraduate Research Forum"],
-        "startDate": "2020",
-        "endDate": "2021",
-        "url": "https://undergradresearch.missouri.edu/bioinformatics-in-plant-sciences-bips/"
+      "name": "Bio-Informatics in Plant Science",
+      "summary": "Developed a software system to automate data collection for a plant science research project.",
+      "highlights": ["Won an Outstanding Award for Abstract Writing at the Spring 21' Undergraduate Research Forum"],
+      "startDate": "2020",
+      "endDate": "2021",
+      "url": "https://undergradresearch.missouri.edu/bioinformatics-in-plant-sciences-bips/"
     },
     {
       "name": "Cybersecurity Research Experience for Undergraduates",
@@ -75,20 +74,20 @@
   ],
   "work": [
     {
-        "name": "University of Illinois Siebel School of Computing and Data Science",
-        "position": "Teaching Assistant",
-        "url": "https://siebelschool.illinois.edu/",
-        "startDate": "2024",
-        "endDate": "2025",
-        "summary": "Taught lab sections, developed course material, and graded final exams for CS 341: Systems Programming"
+      "name": "University of Illinois Siebel School of Computing and Data Science",
+      "position": "Teaching Assistant",
+      "url": "https://siebelschool.illinois.edu/",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Taught lab sections, developed course material, and graded final exams for CS 341: Systems Programming"
     },
     {
-        "name": "University of Missouri Department of Computer Science",
-        "position": "Peer Learning Assistant",
-        "url": "https://engineering.missouri.edu/degree/bachelor-of-science-in-computer-science/",
-        "startDate": "2021, 08",
-        "endDate": "12",
-        "summary": "Assisted with grading for 45 students, held office hours and co-led review sessions for CS 1050: Algorithm Design and Programming I."
+      "name": "University of Missouri Department of Computer Science",
+      "position": "Peer Learning Assistant",
+      "url": "https://engineering.missouri.edu/degree/bachelor-of-science-in-computer-science/",
+      "startDate": "2021, 08",
+      "endDate": "12",
+      "summary": "Assisted with grading for 45 students, held office hours and co-led review sessions for CS 1050: Algorithm Design and Programming I."
     },
     {
       "name": "CrowdStrike",
@@ -98,22 +97,22 @@
       "endDate": "08",
       "summary": "Developed detection logic for Windows Defender tampering to increase security visibility."
     },
-    
-      {
-        "name": "Caterpillar",
-        "position": "Engineering Intern",
-        "url": "https://www.caterpillar.com/",
-        "startDate": "2021, 05",
-        "endDate": "08",
-        "summary": "Created a MATLAB simulation to model IMU sensor error based on technical specification documents."
-      }
+
+    {
+      "name": "Caterpillar",
+      "position": "Engineering Intern",
+      "url": "https://www.caterpillar.com/",
+      "startDate": "2021, 05",
+      "endDate": "08",
+      "summary": "Created a MATLAB simulation to model IMU sensor error based on technical specification documents."
+    }
   ],
   "awards": [
     {
-        "title": "NSF GRFP Honorable Mention",
-        "url": "https://www.research.gov/grfp/AwardeeList.do",
-        "date": "2025",
-        "awarder": "National Science Foundation Graduate Research Fellowship Program"
+      "title": "NSF GRFP Honorable Mention",
+      "url": "https://www.research.gov/grfp/AwardeeList.do",
+      "date": "2025",
+      "awarder": "National Science Foundation Graduate Research Fellowship Program"
     },
     {
       "title": "High Dean's List",
@@ -123,27 +122,27 @@
       "summary": "Awarded each semester a student achieves a GPA of 3.5 or higher"
     },
     {
-        "title": "Oustanding Award for Abstract Writing",
-        "url": "https://dl.mospace.umsystem.edu/mu/islandora/object/mu%3A428138",
-        "date": "2021",
-        "awarder": "Undergraduate Research and Creative Achievements Forum",
-        "summary": "Awarded to the best student abstracts in each research category."
+      "title": "Oustanding Award for Abstract Writing",
+      "url": "https://dl.mospace.umsystem.edu/mu/islandora/object/mu%3A428138",
+      "date": "2021",
+      "awarder": "Undergraduate Research and Creative Achievements Forum",
+      "summary": "Awarded to the best student abstracts in each research category."
     },
     {
-        "title": "Discovery Fellows",
-        "url": "https://honors.missouri.edu/scholarships-and-aid/discovery-fellows/",
-        "date": "2020",
-        "awarder": "University of Missouri Honors College",
-        "summary": "Award to provide support for undergraduate research."
+      "title": "Discovery Fellows",
+      "url": "https://honors.missouri.edu/scholarships-and-aid/discovery-fellows/",
+      "date": "2020",
+      "awarder": "University of Missouri Honors College",
+      "summary": "Award to provide support for undergraduate research."
     }
   ],
   "publications": [
     {
-        "name": "Potential for Robots to Assist People with Vision Impairments with Orientation and Mobility",
-        "publisher": "HFES International Symposium 2025",
-        "releaseDate": "2025",
-        "url": "https://hfeshcs2025.conference-program.com/presentation/?id=ROB101&sess=sess164",
-        "summary": "Preliminary findings from interviews conducted with Orientation and Mobility experts on the needs of People with Visual Impairments for navigational assistance and technology considerations."
+      "name": "Potential for Robots to Assist People with Vision Impairments with Orientation and Mobility",
+      "publisher": "HFES International Symposium 2025",
+      "releaseDate": "2025",
+      "url": "https://hfeshcs2025.conference-program.com/presentation/?id=ROB101&sess=sess164",
+      "summary": "Preliminary findings from interviews conducted with Orientation and Mobility experts on the needs of People with Visual Impairments for navigational assistance and technology considerations."
     },
     {
       "name": "SPITE: Simple Polyhedral Intersection Techniques for modified Environments",
@@ -171,72 +170,44 @@
     {
       "name": "Programming Languages",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "Java",
-        "HTML/CSS",
-        "JavaScript",
-        "PHP"
-      ]
+      "keywords": ["Python", "C/C++", "Java", "HTML/CSS", "JavaScript", "PHP"]
     },
     {
-        "name": "Software",
-        "icon": "fa-solid fa-computer",
-        "keywords": [
-            "ROS",
-            "Git",
-            "MATLAB",
-            "LaTeX"
-        ]
+      "name": "Software",
+      "icon": "fa-solid fa-computer",
+      "keywords": ["ROS", "Git", "MATLAB", "LaTeX"]
     },
     {
-        "name": "Robots",
-        "icon": "fa-solid fa-robot",
-        "keywords": [
-          "Hello Robot Stretch",
-          "Universal Robots UR5e manipulator arm"
-        ]
+      "name": "Robots",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Hello Robot Stretch", "Universal Robots UR5e manipulator arm"]
     }
   ],
   "interests": [
     {
       "name": "Human Robot Interaction",
       "icon": "fa-solid fa-tty",
-      "keywords": [
-         "Assistive Robotics",
-        "Human-Centered Robotics"
-      ]
+      "keywords": ["Assistive Robotics", "Human-Centered Robotics"]
     },
     {
-        "name": "Haptic Devices",
-        "icon": "fa-solid fa-wave-square",
-        "keywords": [
-          "vibrotactile feedback",
-          "force feedback",
-          "tactile maps",
-          "pneumatic actuators"
-        ]
-      },
-      {
-        "name": "Robot Motion Planning",
-        "icon": "fa-solid fa-map",
-        "keywords": [
-          "PRM",
-          "Dynamic Roadmaps",
-          "Modified Environments",
-          "Legible/Adversarial Planning"
-        ]
-      }
+      "name": "Haptic Devices",
+      "icon": "fa-solid fa-wave-square",
+      "keywords": ["vibrotactile feedback", "force feedback", "tactile maps", "pneumatic actuators"]
+    },
+    {
+      "name": "Robot Motion Planning",
+      "icon": "fa-solid fa-map",
+      "keywords": ["PRM", "Dynamic Roadmaps", "Modified Environments", "Legible/Adversarial Planning"]
+    }
   ],
   "volunteer": [
     {
-        "organization": "Facilitator",
-        "position": "Girls Who Code",
-        "url": "https://publish.illinois.edu/girlswhocode/girls-who-code-2/",
-        "startDate": "2025",
-        "endDate": "Present",
-        "summary": "Mentor middle and highschool students weekly in developing their own computing projects"
+      "organization": "Facilitator",
+      "position": "Girls Who Code",
+      "url": "https://publish.illinois.edu/girlswhocode/girls-who-code-2/",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Mentor middle and highschool students weekly in developing their own computing projects"
     },
     {
       "organization": "Co-President",
@@ -245,7 +216,10 @@
       "startDate": "2019",
       "endDate": "2023",
       "summary": "Organized and led a competiton team to design and build an Autonomous Underwater Vehicle for the RoboSub competition.",
-      "highlights": ["Qualified in the 2022 RoboSub competition", "Created take home kits and instructional videos for the STEM Cubs outreach program, serving underrepresented elementary school students in the area."]
+      "highlights": [
+        "Qualified in the 2022 RoboSub competition",
+        "Created take home kits and instructional videos for the STEM Cubs outreach program, serving underrepresented elementary school students in the area."
+      ]
     }
   ]
 }
